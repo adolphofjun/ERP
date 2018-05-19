@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--作用:更好的管理数据操作语句，实现精确匹配  -->
+<mapper namespace="com.adolph.erp.TestDao">
+    <!-- 查询销售物料库存信息 -->
+    <!--	<select id="findEmp"  resultType="com.adolph.erp.Emp">
+            select * from emp
+        </select>-->
+
+</mapper>
